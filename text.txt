@@ -1,0 +1,19 @@
+﻿Growinlab - Lò ấp công nghệ dành cho sinh viên
+Growinlab là tổ chức phi lợi nhuận cung cấp môi trường đào tạo và khởi nghiệp trong lĩnh vực công nghệ thông tin dành cho sinh viên.
+Thông qua các dự án phần mềm do doanh nghiệp hoặc chính các bạn sinh viên đề xuất sẽ được Growinlab hướng dẫn thực hiện theo quy trình phát triển phần mềm thực tế để thương mại hóa các dự án phần mềm đó.
+
+Bạn có muốn những đề tài nghiên cứu khoa học, thực tâp hoặc tốt nghiệp của mình mang tính thực tế và có thể thương mại hoá ?
+
+Tham gia Growinlab bạn sẽ được học:
+
+Lập trình Web Fullstack: RESTful web service, Thiết kế database, phát triển giao diện web, triển khai hệ thống trên cloud và vận hành hệ thống đến người dùng cuối.
+
+Nghiên cứu trải nghiệm và thiết kế giao diện người dùng (UX & UI design) cho ứng dụng web và mobile
+
+Nghiên cứu về xử lí ngôn ngữ tự nhiên và phát triển chat bot trên các nền tảng như Zalo, Messenger, Skype và Slack.
+
+Phát triển ứng dụng di động đa nền tảng dành cho iOS lẫn Android thông qua nền tảng React Native của Facebook.
+
+Kĩ năng làm việc nhóm thông qua quy trình phát triển phần mềm nhanh Agile. Quy trình Agile trong Growinlab là quy trình Agile cải tiến của Comerge AG Zürich, Thụy Sĩ, phù hợp cho công ty phát triển sản phẩm phần mềm ra công chúng thay vì gia công phần mềm.
+
+kĩ năng quản lí thời gian, thi cử để cân đối việc học ở trường và trải nghiệm thực tế tại doanh nghiệp. Kĩ năng nghiên cứu, viết báo cáo và thuyết trình đề tài thực tập, tốt nghiệp.
